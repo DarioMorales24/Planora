@@ -17,6 +17,7 @@ This file serves as a living log of the progress made on the Planora project. It
 - Service: EmployeeService handles business logic.
 - Controller: EmployeeController defines REST endpoints.
 - Tests: unit tests pending.
+- Shift CRUD implemented (backend + frontend).
 
 ## Sub-actividades por actividad
 
@@ -59,7 +60,7 @@ This file serves as a living log of the progress made on the Planora project. It
 - Crear rol ADMIN / USER
 - Protección de endpoints
 
-### A-13: Backend: motor de generación completo
+### A-13: Backend: motor de generación completo (Shift CRUD completado)
 - Implementar `ScheduleGenerationService`
 - Añadir unit tests
 - Integrar con API `/api/schedule/generate`
@@ -119,7 +120,7 @@ This file serves as a living log of the progress made on the Planora project. It
 | A-10 | Prototipo empaquetado Desktop (decisión Electron/Tauri) | ☐ |
 | A-11 | Backend: módulo Demanda + refactor módulos existentes con validaciones | ☐ |
 | A-12 | Backend: autenticación y roles | ☐ |
-| A-13 | Backend: motor de generación completo | ☐ |
+| A-13 | Backend: motor de generación completo (Shift CRUD completado) | ✔️ |
 | A-14 | Backend: workflow de aprobación | ☐ |
 | A-15 | Backend: modificaciones quirúrgicas + sugerencia de reemplazos | ☐ |
 | A-16 | Backend: auditoría | ☐ |
