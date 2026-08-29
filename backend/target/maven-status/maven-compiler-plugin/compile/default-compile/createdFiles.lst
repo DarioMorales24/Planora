@@ -1,1 +1,5 @@
+com\example\scheduler\model\Employee.class
+com\example\scheduler\repository\EmployeeRepository.class
 com\example\scheduler\SchedulerApplication.class
+com\example\scheduler\service\EmployeeService.class
+com\example\scheduler\controller\EmployeeController.class
